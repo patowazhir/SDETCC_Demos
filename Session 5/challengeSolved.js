@@ -42,6 +42,7 @@ function patada(resultadoDados) {
     puntosDeDaño = 60;
   } else if (resultadoDados < 5 && resultadoDados > 2) {
     puntosDeDaño = 40;
+    throw "232323";
   } else {
     puntosDeDaño = 20;
   }
