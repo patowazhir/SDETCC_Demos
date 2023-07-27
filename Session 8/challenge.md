@@ -34,11 +34,8 @@ addItem("Orange", 8, 55);
 checkInventory();
 /*
 Inventario:
-challenge_solved.js:42
 Apple - cantidad: 10, precio: $20, precioMayoreo: $16
-challenge_solved.js:44
 Banana - cantidad: 5, precio: $50, precioMayoreo: $40
-challenge_solved.js:44
 Orange - cantidad: 8, precio: $55, precioMayoreo: $44
 */
 
@@ -49,9 +46,7 @@ removeItem("Banana");
 checkInventory();
 /*
 Inventario:
-challenge_solved.js:42
 Apple - cantidad: 10, precio: $20, precioMayoreo: $16
-challenge_solved.js:44
 Orange - cantidad: 8, precio: $55, precioMayoreo: $44
 */
 ```
