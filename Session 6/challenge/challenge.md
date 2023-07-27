@@ -1,4 +1,4 @@
-# Session 5 Challenge
+# Session 6 Challenge
 
 ## Gestión de Inventario de una Tienda
 
