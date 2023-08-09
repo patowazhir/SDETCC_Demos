@@ -1,6 +1,6 @@
-import { Motorcycle } from "./Motorcycle.js";
-import { Truck } from "./Truck.js";
-import { Boat } from "./Boat.js";
+import { Motorcycle } from "./modules/Motorcycle.js";
+import { Truck } from "./modules/Truck.js";
+import { Boat } from "./modules/Boat.js";
 
 // BOAT
 const yacht = new Boat("Neptune", "Trident", 2020, "A");
