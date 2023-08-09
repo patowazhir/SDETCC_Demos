@@ -53,10 +53,10 @@ bob.setEmail("bobby@email.com");
 
 // Access username
 // This invokes username getter method
-console.log(bob.username);
+console.log(bob.getUsername());
 // 'bobby'
 
 // Access username
 // This invokes email getter method
-console.log(bob.email);
+console.log(bob.getEmail());
 // 'bobby@email.com'
